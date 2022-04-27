@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: 9bcdfb38c701b5e438c337a37af2e82c
+timeCreated: 1649744690
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Hand_Mesh
+    100002: LeftArm1
+    100004: LeftForeArm1
+    100006: LeftHand1
+    100008: LeftHandIndex1_1
+    100010: LeftHandIndex2_1
+    100012: LeftHandIndex3_1
+    100014: LeftHandIndex4_1
+    100016: LeftHandMiddle1_1
+    100018: LeftHandMiddle2_1
+    100020: LeftHandMiddle3_1
+    100022: LeftHandMiddle4_1
+    100024: LeftHandPinky1_1
+    100026: LeftHandPinky2_1
+    100028: LeftHandPinky3_1
+    100030: LeftHandPinky4_1
+    100032: LeftHandRing1_1
+    100034: LeftHandRing2_1
+    100036: LeftHandRing3_1
+    100038: LeftHandRing4_1
+    100040: LeftHandThumb1_1
+    100042: LeftHandThumb2_1
+    100044: LeftHandThumb3_1
+    100046: LeftHandThumb4_1
+    100048: LeftShoulder1
+    100050: mag
+    100052: Mag_j
+    100054: main
+    100056: main_j
+    100058: //RootNode
+    100060: Mark23_Root
+    100062: RightArm1
+    100064: RightForeArm1
+    100066: RightHand1
+    100068: RightHandIndex1_1
+    100070: RightHandIndex2_1
+    100072: RightHandIndex3_1
+    100074: RightHandIndex4_1
+    100076: RightHandMiddle1_1
+    100078: RightHandMiddle2_1
+    100080: RightHandMiddle3_1
+    100082: RightHandMiddle4_1
+    100084: RightHandPinky1_1
+    100086: RightHandPinky2_1
+    100088: RightHandPinky3_1
+    100090: RightHandPinky4_1
+    100092: RightHandRing1_1
+    100094: RightHandRing2_1
+    100096: RightHandRing3_1
+    100098: RightHandRing4_1
+    100100: RightHandThumb1_1
+    100102: RightHandThumb2_1
+    100104: RightHandThumb3_1
+    100106: RightHandThumb4_1
+    100108: RightShoulder1
+    100110: Side
+    100112: side_j
+    100114: Spine2_1
+    400000: Hand_Mesh
+    400002: LeftArm1
+    400004: LeftForeArm1
+    400006: LeftHand1
+    400008: LeftHandIndex1_1
+    400010: LeftHandIndex2_1
+    400012: LeftHandIndex3_1
+    400014: LeftHandIndex4_1
+    400016: LeftHandMiddle1_1
+    400018: LeftHandMiddle2_1
+    400020: LeftHandMiddle3_1
+    400022: LeftHandMiddle4_1
+    400024: LeftHandPinky1_1
+    400026: LeftHandPinky2_1
+    400028: LeftHandPinky3_1
+    400030: LeftHandPinky4_1
+    400032: LeftHandRing1_1
+    400034: LeftHandRing2_1
+    400036: LeftHandRing3_1
+    400038: LeftHandRing4_1
+    400040: LeftHandThumb1_1
+    400042: LeftHandThumb2_1
+    400044: LeftHandThumb3_1
+    400046: LeftHandThumb4_1
+    400048: LeftShoulder1
+    400050: mag
+    400052: Mag_j
+    400054: main
+    400056: main_j
+    400058: //RootNode
+    400060: Mark23_Root
+    400062: RightArm1
+    400064: RightForeArm1
+    400066: RightHand1
+    400068: RightHandIndex1_1
+    400070: RightHandIndex2_1
+    400072: RightHandIndex3_1
+    400074: RightHandIndex4_1
+    400076: RightHandMiddle1_1
+    400078: RightHandMiddle2_1
+    400080: RightHandMiddle3_1
+    400082: RightHandMiddle4_1
+    400084: RightHandPinky1_1
+    400086: RightHandPinky2_1
+    400088: RightHandPinky3_1
+    400090: RightHandPinky4_1
+    400092: RightHandRing1_1
+    400094: RightHandRing2_1
+    400096: RightHandRing3_1
+    400098: RightHandRing4_1
+    400100: RightHandThumb1_1
+    400102: RightHandThumb2_1
+    400104: RightHandThumb3_1
+    400106: RightHandThumb4_1
+    400108: RightShoulder1
+    400110: Side
+    400112: side_j
+    400114: Spine2_1
+    2100000: Hand_D
+    2100002: Glove_D
+    2100004: Mark23_D
+    4300000: Hand_Mesh
+    4300002: Side
+    4300004: main
+    4300006: mag
+    7400000: Reload
+    7400002: Shoot
+    7400004: Hide
+    7400006: Draw
+    7400008: Idle
+    9500000: //RootNode
+    13700000: Hand_Mesh
+    13700002: mag
+    13700004: main
+    13700006: Side
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glove_D
+    second: {fileID: 2100000, guid: 58f9421e343afb246bb9cd9abf546b52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hand_D
+    second: {fileID: 2100000, guid: 4ba33de48e643df4c89cd0c4ec1992e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mark23_D
+    second: {fileID: 2100000, guid: a309cd1e477255446a177a6d218e9145, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Reload
+      takeName: Reload
+      firstFrame: 1
+      lastFrame: 113
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Shoot
+      takeName: Shoot
+      firstFrame: 113
+      lastFrame: 123
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hide
+      takeName: Hide
+      firstFrame: 123
+      lastFrame: 134
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Draw
+      takeName: Draw
+      firstFrame: 145
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Idle
+      firstFrame: 160
+      lastFrame: 161
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
