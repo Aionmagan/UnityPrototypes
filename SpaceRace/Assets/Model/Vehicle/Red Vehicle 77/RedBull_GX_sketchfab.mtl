@@ -1,0 +1,195 @@
+# Blender MTL File: 'RedBull_GX_sketchfab.blend'
+# Material Count: 18
+
+newmtl Cockpit
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Acer Nitro 5\\Downloads\\red-bull-f-zero-gx-style\\common\\z_part_a04.png
+
+newmtl Cockpit_panel
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Num_7
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Acer Nitro 5\\Downloads\\red-bull-f-zero-gx-style\\common\\z_num_07a_rgb5a3.png
+
+newmtl RB_Black
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Acer Nitro 5\\Downloads\\red-bull-f-zero-gx-style\\source\\Texture\\gimp\\77_bull_a_p1.png
+
+newmtl RB_BodyCenter
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Acer Nitro 5\\Downloads\\red-bull-f-zero-gx-style\\source\\Texture\\gimp\\77_bull_z_body_a.png
+
+newmtl RB_Nose
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Acer Nitro 5\\Downloads\\red-bull-f-zero-gx-style\\source\\Texture\\gimp\\77_bull_z_p1_b.png
+
+newmtl RB_Rear
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Acer Nitro 5\\Downloads\\red-bull-f-zero-gx-style\\source\\Texture\\gimp\\77_bull_z_body_b.png
+
+newmtl RB_VentGold
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Acer Nitro 5\\Downloads\\red-bull-f-zero-gx-style\\source\\Texture\\gimp\\z_part_a01_y.png
+
+newmtl RB_Wings
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Acer Nitro 5\\Downloads\\red-bull-f-zero-gx-style\\source\\Texture\\gimp\\77_bull_a_wing_a.png
+
+newmtl RB_body
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Acer Nitro 5\\Downloads\\red-bull-f-zero-gx-style\\source\\Texture\\gimp\\77_bull_a_body_a.png
+
+newmtl RB_booster
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\慎也\\3D Objects\\Other\\F-ZERO\\gx\\common\\z_part_panel.png
+
+newmtl RB_bootmVent
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\慎也\\3D Objects\\Other\\F-ZERO\\gx\\common\\z_part_a01.png
+
+newmtl RB_fire
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Acer Nitro 5\\Downloads\\red-bull-f-zero-gx-style\\common\\z_spec_b025_i8.png
+
+newmtl RB_mini
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\Acer Nitro 5\\Downloads\\red-bull-f-zero-gx-style\\source\\Texture\\gimp\\77_bull_a_mini_a.png
+
+newmtl RB_window
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.212231 0.445201 0.212231
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Rb_edge
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.021971 0.021971 0.021971
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+
+newmtl Seat
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.044412 0.044412 0.044412
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl gxmat39
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
